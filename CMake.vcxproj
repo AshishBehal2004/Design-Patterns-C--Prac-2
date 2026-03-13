@@ -127,11 +127,13 @@
     <ClCompile Include="ApricotPie.cpp" />
     <ClCompile Include="CMake.cpp" />
     <ClCompile Include="Pie.cpp" />
+    <ClCompile Include="RaspberryPie.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ApplePie.h" />
     <ClInclude Include="ApricotPie.h" />
     <ClInclude Include="Pie.h" />
+    <ClInclude Include="RaspberryPie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

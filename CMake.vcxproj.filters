@@ -27,6 +27,9 @@
     <ClCompile Include="ApplePie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RaspberryPie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Pie.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ApplePie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RaspberryPie.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
