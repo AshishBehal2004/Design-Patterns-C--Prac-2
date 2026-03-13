@@ -123,10 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ApplePie.cpp" />
+    <ClCompile Include="ApricotPie.cpp" />
     <ClCompile Include="CMake.cpp" />
     <ClCompile Include="Pie.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ApplePie.h" />
+    <ClInclude Include="ApricotPie.h" />
     <ClInclude Include="Pie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
