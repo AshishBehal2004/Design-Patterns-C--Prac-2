@@ -18,5 +18,13 @@
     <ClCompile Include="CMake.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

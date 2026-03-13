@@ -124,6 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CMake.cpp" />
+    <ClCompile Include="Pie.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
